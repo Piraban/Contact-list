@@ -11,7 +11,7 @@
     "eslint-plugin-jsx-a11y": "5.0.3",
     "eslint-plugin-react": "7.0.1",
     "prettier": "1.8.2",
-    "react-native-scripts": "1.14.0"
+    "react-native-scripts": "1.14.1"
   },
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
